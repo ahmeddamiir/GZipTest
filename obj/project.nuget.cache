@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hAgrdlyZyNlIvH0luyIYnRVeYF2uoBi9Tmdx36eYYoZiUWy/MvgAe9GjsIjlp/yqcXJEhB0GkHWKJSrpWEFrUg==",
+  "success": true,
+  "projectFilePath": "/home/ahmed/Downloads/Rider/RiderProjects/testProject/testProject/testProject.csproj",
+  "expectedPackageFiles": [
+    "/home/ahmed/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

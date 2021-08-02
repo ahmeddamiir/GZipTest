@@ -1,0 +1,16 @@
+/home/ahmed/Downloads/Rider/RiderProjects/testProject/testProject/bin/Debug/net5.0/testProject
+/home/ahmed/Downloads/Rider/RiderProjects/testProject/testProject/bin/Debug/net5.0/testProject.deps.json
+/home/ahmed/Downloads/Rider/RiderProjects/testProject/testProject/bin/Debug/net5.0/testProject.runtimeconfig.json
+/home/ahmed/Downloads/Rider/RiderProjects/testProject/testProject/bin/Debug/net5.0/testProject.runtimeconfig.dev.json
+/home/ahmed/Downloads/Rider/RiderProjects/testProject/testProject/bin/Debug/net5.0/testProject.dll
+/home/ahmed/Downloads/Rider/RiderProjects/testProject/testProject/bin/Debug/net5.0/ref/testProject.dll
+/home/ahmed/Downloads/Rider/RiderProjects/testProject/testProject/bin/Debug/net5.0/testProject.pdb
+/home/ahmed/Downloads/Rider/RiderProjects/testProject/testProject/obj/Debug/net5.0/testProject.csprojAssemblyReference.cache
+/home/ahmed/Downloads/Rider/RiderProjects/testProject/testProject/obj/Debug/net5.0/testProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/ahmed/Downloads/Rider/RiderProjects/testProject/testProject/obj/Debug/net5.0/testProject.AssemblyInfoInputs.cache
+/home/ahmed/Downloads/Rider/RiderProjects/testProject/testProject/obj/Debug/net5.0/testProject.AssemblyInfo.cs
+/home/ahmed/Downloads/Rider/RiderProjects/testProject/testProject/obj/Debug/net5.0/testProject.csproj.CoreCompileInputs.cache
+/home/ahmed/Downloads/Rider/RiderProjects/testProject/testProject/obj/Debug/net5.0/testProject.dll
+/home/ahmed/Downloads/Rider/RiderProjects/testProject/testProject/obj/Debug/net5.0/ref/testProject.dll
+/home/ahmed/Downloads/Rider/RiderProjects/testProject/testProject/obj/Debug/net5.0/testProject.pdb
+/home/ahmed/Downloads/Rider/RiderProjects/testProject/testProject/obj/Debug/net5.0/testProject.genruntimeconfig.cache
